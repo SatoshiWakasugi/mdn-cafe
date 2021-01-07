@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "../../../vue-app"
+	},
+	{
+		"path": "../../../nuxt-app"
+	},
+	{
+		"path": "../../../../Downloads/MdN_VUEJS3"
+	},
+	{
+		"path": "../.."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "vue-app"
+  }
+}
